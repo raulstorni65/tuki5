@@ -1,0 +1,11 @@
+.git
+.agents
+.codex
+work
+build
+sheets
+search console
+README.md
+.build-manifest.json
+.env*
+*.zip
